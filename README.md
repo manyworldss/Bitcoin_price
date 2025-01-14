@@ -10,7 +10,7 @@ A Discord bot that tracks Bitcoin prices using the CoinMarketCap API and sends r
 - Detailed logging system
 - Configurable through JSON file
 
-## Setup
+## Setup ##
 
 1. Create a `config.json` file with the following structure:
 ```json
